@@ -36,7 +36,7 @@ This tool is useful for analyzing color-coded heatmaps embedded in PDFs or image
 <img width="1280" height="893" alt="image" src="https://github.com/user-attachments/assets/7c29281d-87f7-4f6b-88e6-e9e4e1dbb3e1" />
 
 
-## Cite
+## Cite this project
 ```
 @misc{RGBPicker2024,
   author       = {J. Wang},

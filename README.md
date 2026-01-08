@@ -38,7 +38,7 @@ This tool is useful for analyzing color-coded heatmaps embedded in PDFs or image
 
 ## Cite this project
 ```
-@misc{RGBPicker2024,
+@misc{RGBPicker2025,
   author       = {J. Wang},
   title        = {{PDF/Image Heatmap Picker}},
   howpublished = {\url{https://github.com/elphen-wang/RGB-Picker}},
